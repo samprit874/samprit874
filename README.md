@@ -1,6 +1,9 @@
 Hey there! 👋
+
 I'm a frontend developer who loves turning ideas into reality
+
 Building cool things with HTML, CSS & JavaScript and a little bit python.
+
 📍 Raiganj, West Bengal, India
 
 ## 🌐 Socials:
