@@ -1,6 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+Hey there! 👋
+I'm a frontend developer who loves turning ideas into reality
+Building cool things with HTML, CSS & JavaScript and a little bit python.
+📍 Raiganj, West Bengal, India
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sonai__._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarkarsamprit80@gmail.com) 
