@@ -2,7 +2,7 @@ Hey there! 👋
 
 I'm a frontend developer who loves turning ideas into reality
 
-Building cool things with HTML, CSS & JavaScript, C and a little bit python.
+Building cool things with HTML, CSS & JavaScript, C and python.
 
 📍 Raiganj, West Bengal, India
 
