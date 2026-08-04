@@ -4,7 +4,7 @@ I'm a frontend developer who loves turning ideas into reality
 
 Building cool things with HTML, CSS & JavaScript, C and python.
 
-Contact , if you wanna build birthday 'wishing or proposal' / 'private' / 'business websites' .
+Contact , if you wanna build 'birthday wishing' or 'proposal' / 'private' / 'business websites' .
 
 📍 Raiganj, West Bengal, India
 
