@@ -1,11 +1,7 @@
-Hey there! 👋
-
-I'm a frontend developer who loves turning ideas into reality
-
-Building cool things with HTML, CSS & JavaScript, C and python.
-
-Contact , if you wanna build 'birthday wishing' or 'proposal' / 'private' / 'business websites' .
-
+Hey there! 👋 <break>
+I'm a frontend developer who loves turning ideas into reality <break>
+Building cool things with HTML, CSS & JavaScript, C and python. <break>
+Contact , if you wanna build 'birthday wishing' or 'proposal' / 'private' / 'business websites' . <break>
 📍 Raiganj, West Bengal, India
 
 
@@ -24,4 +20,3 @@ Contact , if you wanna build 'birthday wishing' or 'proposal' / 'private' / 'bus
 ![](https://github-contributor-stats.vercel.app/api?username=samprit874&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
