@@ -1,8 +1,8 @@
-Hey there! 👋 <break>
-I'm a frontend developer who loves turning ideas into reality <break>
-Building cool things with HTML, CSS & JavaScript, C and python. <break>
-Contact , if you wanna build 'birthday wishing' or 'proposal' / 'private' / 'business websites' . <break>
-📍 Raiganj, West Bengal, India
+Hey there !<br>
+I'm a frontend developer who loves turning ideas into reality . <br>
+Building cool things with HTML, CSS & JavaScript, C and python . <br> 
+Contact , if you wanna build 'birthday wishing' or 'proposal' / 'private' / 'business websites' . <br> 
+📍 Raiganj, West Bengal, India .
 
 
 ## 🌐 Socials:
