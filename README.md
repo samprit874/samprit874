@@ -1,4 +1,4 @@
-<b>Frontend developer who loves turning ideas into reality . <br>
+<b>Frontend developer </b> who loves turning ideas into reality . <br>
 Building cool things with HTML, CSS & JavaScript, C and python . <br> 
 Contact , if you wanna build 'birthday wishing' or 'proposal' / 'private' / 'business websites' . <br> 
 📍 Raiganj, West Bengal, India .
